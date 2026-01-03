@@ -17,6 +17,8 @@ Latihan ini menekankan pada hierarki informasi yang sistematis dan keseimbangan 
 📄 Unduh file Porto
 https://github.com/mustofa110/Poster-Design-Exploration/commit/9e0bcd265c06f9a13a57dd6b724de7daaf2c459e
 
+Link Behance.net https://www.behance.net/ahmadmustofa7
+
 Catatan: 
 Seluruh proyek ini dibuat sebagai media pembelajaran pribadi dan tidak ditujukan untuk kepentingan komersial.
 Hak cipta merek sepenuhnya milik Nike, Vans, dan Adidas.
